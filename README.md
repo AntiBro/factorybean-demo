@@ -1,0 +1,2 @@
+# factorybean-demo
+通过factorybean向spring动态注入Bean的2种方式
